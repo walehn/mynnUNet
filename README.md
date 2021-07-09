@@ -1,0 +1,2 @@
+# mynnUNet
+nnUNet based segmentation
